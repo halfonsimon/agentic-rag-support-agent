@@ -39,6 +39,7 @@ class _RequestBudget:
     remaining: int
 
     def consume(self) -> None:
+        """Count one model attempt, or stop when the shared budget is exhausted."""
         if self.remaining <= 0:
             raise _BudgetExhausted
         self.remaining -= 1
