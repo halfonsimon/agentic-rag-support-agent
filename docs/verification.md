@@ -28,3 +28,11 @@ Chroma also logs telemetry-library compatibility errors, while its indexing/quer
 
 No GitHub repository was created, no remote was configured, and nothing was pushed.
 Git commits use a neutral local contributor identity, without the original personal header.
+
+## Verification after relocation
+
+The user completed dependency installation and reported successful native Ruff checks,
+16 correctly formatted Python files, and 41 passing tests. The seven warnings were
+dependency deprecations. A further publication scan checked all 32 tracked files and
+59 Git objects without finding original credentials, resource endpoints or personal
+identifiers. Local configuration and virtual environments remain ignored.

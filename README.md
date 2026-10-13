@@ -6,7 +6,7 @@ A bounded model loop combines tools and returns grounded answers with fictional 
 
 Built during a university course on LLMs for software engineering. This portfolio version
 contains only the original agent implementation and design notes, plus new demo data,
-tests and project tooling. The repository is prepared locally for review; no remote is configured.
+tests and project tooling. The project uses fictional data so its code and examples can be shared as a portfolio.
 
 ```mermaid
 flowchart TD
@@ -140,10 +140,10 @@ Its substring checks are a smoke evaluation, not a rigorous quality or security 
   durable index. The loop is bounded but does not validate every final product claim.
 
 Before publishing, review every file and local commit, rotate the credential found in the
-original source, confirm the MIT licensing of your own work, and create a **private** repository
+original source, confirm this is your own work to share, and create a **public** repository
 manually. Keep external data and configuration out of Git.
 
-## License
+## Design notes
 
-[MIT](LICENSE) applies to this code and the invented demo data. External datasets retain their
-own licenses. The original design notes are adapted in [docs/design-notes.md](docs/design-notes.md).
+The original design notes are adapted in [docs/design-notes.md](docs/design-notes.md).
+External datasets retain their own licenses.
