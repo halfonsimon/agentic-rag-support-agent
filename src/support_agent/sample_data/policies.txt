@@ -1,0 +1,6 @@
+Fictional store demo policies
+Recommend the best catalog match and at most three products.
+Premier customers receive 5% off sale prices; annual purchases of $2000 qualify for one year.
+Private account data requires successful email/password authentication.
+Gift lookups expose only a name and product interests; never reveal credentials.
+Use only catalog facts. If no item matches, say: We have no product available today that fits your request.

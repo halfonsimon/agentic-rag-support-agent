@@ -1,0 +1,11 @@
+Uniq Id,Product Name,Description,List Price,Sale Price,Brand,Category,Available
+p01,Trailguard Snow Helmet,Insulated snow sports helmet with adjustable fit.,80,60,Trailguard,Sports > Snow,true
+p02,Trailguard Snow Goggles,Anti-fog snowboarding goggles with UV protection.,50,40,Trailguard,Sports > Snow,true
+p03,Trailguard Wrist Guards,Protective wrist guards for snow sports.,35,30,Trailguard,Sports > Snow,false
+p04,Balance Digital Scale,Digital bathroom scale displaying pounds and kilograms.,45,35,Balance,Health > Scales,true
+p05,Balance Compact Scale,Small scale displaying kilograms only.,25,25,Balance,Health > Scales,true
+p06,Softleaf Gentle Soap,Fragrance-free cleansing bar with moisturizing oat extract.,8,6,Softleaf,Personal Care > Soap,true
+p07,Softleaf Hand Lotion,"Unscented moisturizing hand lotion, 200 ml.",15,12,Softleaf,Personal Care > Lotion,true
+p08,Campnest Steel Bottle,"Reusable insulated steel bottle, 750 ml.",30,24,Campnest,Outdoors > Bottles,true
+p09,Campnest Daypack,Lightweight hiking backpack with 20 liter capacity.,70,55,Campnest,Outdoors > Bags,true
+p10,Clearwave Desk Lamp,Adjustable LED reading lamp with three brightness settings.,40,40,Clearwave,Home > Lighting,true

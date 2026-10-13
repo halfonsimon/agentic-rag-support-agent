@@ -1,0 +1,68 @@
+[
+  {
+    "first_name": "Aria",
+    "last_name": "Meadow",
+    "age": 29,
+    "email": "aria@example.com",
+    "status": "premier",
+    "product-interests": [
+      "hiking",
+      "snowboarding"
+    ],
+    "pw": "demo-aria",
+    "internal_note": "Fictional demo record",
+    "year_to_date_spend": 1200
+  },
+  {
+    "first_name": "Bram",
+    "last_name": "Willow",
+    "age": 34,
+    "email": "bram@example.com",
+    "status": "standard",
+    "product-interests": [
+      "reading"
+    ],
+    "pw": "demo-bram",
+    "internal_note": "Fictional demo record",
+    "year_to_date_spend": 1200
+  },
+  {
+    "first_name": "Cleo",
+    "last_name": "Reed",
+    "age": 27,
+    "email": "cleo@example.com",
+    "status": "standard",
+    "product-interests": [
+      "skincare"
+    ],
+    "pw": "demo-cleo",
+    "internal_note": "Fictional demo record",
+    "year_to_date_spend": 1200
+  },
+  {
+    "first_name": "Dara",
+    "last_name": "Finch",
+    "age": 42,
+    "email": "dara@example.com",
+    "status": "premier",
+    "product-interests": [
+      "fitness"
+    ],
+    "pw": "demo-dara",
+    "internal_note": "Fictional demo record",
+    "year_to_date_spend": 1200
+  },
+  {
+    "first_name": "Evan",
+    "last_name": "Brook",
+    "age": 31,
+    "email": "evan@example.com",
+    "status": "standard",
+    "product-interests": [
+      "camping"
+    ],
+    "pw": "demo-evan",
+    "internal_note": "Fictional demo record",
+    "year_to_date_spend": 1200
+  }
+]

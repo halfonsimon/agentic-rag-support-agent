@@ -1,0 +1,11 @@
+# Runtime versions retained from the original implementation.
+openai==1.51.0
+httpx==0.27.2
+chromadb==0.5.5
+sentence-transformers==3.0.1
+mongomock==4.1.2
+pandas==2.2.2
+# Chroma's original release uses NumPy APIs removed in NumPy 2.
+numpy==1.26.4
+# mongomock uses pkg_resources; retain a compatible setuptools runtime.
+setuptools==81.0.0
